@@ -1,2 +1,0 @@
-# epileptic-seizure-prediction
-klnlkn
